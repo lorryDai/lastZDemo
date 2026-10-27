@@ -1,0 +1,118 @@
+{
+  "dca87afc-3a9f-4cd2-8d0c-0290d78b89e3": {
+    "url": "db://assets/scripts/BuffSystem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "cb4c5a8c-2a78-478b-a0af-4351366b92cf": {
+    "url": "db://assets/scripts/EventBus.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "75eaa8f0-d006-4abf-8fe0-e9b2dd06e31c": {
+    "url": "db://assets/scripts/GameConfig.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bc958ec6-8250-4a1d-9826-e5382f879695": {
+    "url": "db://assets/scripts/GameController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "17994256-066c-4435-9e84-2d514ddd404b": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5fbd6ce9-e370-435c-aa22-21646be76772": {
+    "url": "db://assets/scripts/Interactables.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "262bfd88-d774-4fce-adcb-eadba8adbd54": {
+    "url": "db://assets/scripts/PlayerController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "224e667f-2141-4224-8223-903369e8d00f": {
+    "url": "db://assets/scripts/SpawnDirector.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "14b7d7b1-aa63-4e57-804c-0b36b6fd36c9": {
+    "url": "db://assets/scripts/UIManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9bbb56e7-fbcb-426d-b937-c49ee3e265c4": {
+    "url": "db://assets/scripts/World.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "004a7184-d2ad-4e1d-93dd-6e64ef7b5f07": {
+    "url": "db://assets/scripts/Zombie.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "33f62a75-0309-414d-b33c-6122d39553b3": {
+    "url": "db://assets/scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "4dbdb779-b0b3-489c-9191-9073a8fbc8bb": {
+    "url": "db://assets/scene/scene.scene",
+    "value": {
+      "depends": [
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 2
+  },
+  "b1a4c7d2-6e39-4f18-9c02-7d5a3b84e610": {
+    "url": "db://assets/scripts/Barrel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c2b5d8e3-7f41-4a29-8d13-5e6c9a72f341": {
+    "url": "db://assets/scripts/BuffGate.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d3c6e9f4-8a52-4b3a-9e24-6f7d8b5c9a12": {
+    "url": "db://assets/scripts/Bullet.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e4d7f1a5-9b63-4c4b-af35-7a8e9c6d1b23": {
+    "url": "db://assets/scripts/GoalBox.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f5e8a2b6-ac74-4d5c-b046-8b9fad7e2c34": {
+    "url": "db://assets/scripts/Hazard.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a6f9b3c7-bd85-4e6d-c157-9ca0be8f3d45": {
+    "url": "db://assets/scripts/NumberGate.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b7a0c4d8-ce96-4f7e-d268-adb1cfa04e56": {
+    "url": "db://assets/scripts/Scroller.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c8b1d5e9-dfa7-4a8f-e379-bec2da1c5f67": {
+    "url": "db://assets/scripts/WarningStripe.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9f3c2a54-1b7e-4c9a-b0d2-3e6f8a1c5d7b": {
+    "url": "db://assets/scripts/NameTagSystem.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}

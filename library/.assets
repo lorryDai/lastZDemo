@@ -1,0 +1,28 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "scene",
+            "scripts",
+            "scripts\\Barrel.ts",
+            "scripts\\BuffGate.ts",
+            "scripts\\BuffSystem.ts",
+            "scripts\\Bullet.ts",
+            "scripts\\EventBus.ts",
+            "scripts\\GameConfig.ts",
+            "scripts\\GameController.ts",
+            "scripts\\GoalBox.ts",
+            "scripts\\Hazard.ts",
+            "scripts\\NameTagSystem.ts",
+            "scripts\\NumberGate.ts",
+            "scripts\\PlayerController.ts",
+            "scripts\\Scroller.ts",
+            "scripts\\SpawnDirector.ts",
+            "scripts\\UIManager.ts",
+            "scripts\\WarningStripe.ts",
+            "scripts\\World.ts",
+            "scripts\\Zombie.ts",
+            "scene\\scene.scene"
+        ]
+    }
+}
